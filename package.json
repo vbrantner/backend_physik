@@ -1,0 +1,28 @@
+{
+  "name": "feedback_api",
+  "version": "1.0.0",
+  "description": "api for read, stored and passed on a feedback",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinzenz Brantner",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.9"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbrantner/pyhsik_backend.git"
+  },
+  "keywords": [
+    "REST-api"
+  ],
+  "bugs": {
+    "url": "https://github.com/vbrantner/pyhsik_backend/issues"
+  },
+  "homepage": "https://github.com/vbrantner/pyhsik_backend#readme"
+}

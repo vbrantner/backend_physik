@@ -1,0 +1,92 @@
+[
+    {
+        "stars": 5,
+        "feedback": "Super!",
+        "project": "Test",
+        "date": "2018-01-10T20:54:46.824Z"
+    },
+    {
+        "stars": 5,
+        "feedback": "Super!!!",
+        "project": "Test",
+        "date": "2018-01-09T21:54:46.824Z"
+    },
+    {
+        "stars": 4,
+        "feedback": "Super, größtenteils!",
+        "project": "Test",
+        "date": "2018-01-10T22:54:46.824Z"
+    },
+    {
+        "stars": 4,
+        "feedback": "Superer größtenteils!",
+        "project": "Test",
+        "date": "2018-01-08T22:54:46.824Z"
+    },
+    {
+        "stars": 3,
+        "feedback": "Super, aber mit Problemen!",
+        "project": "Test",
+        "date": "2018-01-09T10:54:46.824Z"
+    },
+    {
+        "stars": 2,
+        "feedback": "Super, aber mit mehr Problemene!",
+        "project": "Test",
+        "date": "2018-01-10T15:54:46.824Z"
+    },
+    {
+        "stars": 2,
+        "feedback": "Super, ein bisschen!",
+        "project": "Test",
+        "date": "2018-01-10T20:54:47.824Z"
+    },
+    {
+        "stars": 1,
+        "feedback": "...",
+        "project": "Test",
+        "date": "2018-01-09T20:54:46.824Z"
+    },
+    {
+        "stars": 2,
+        "feedback": "",
+        "project": "Test",
+        "date": "2018-01-07T20:54:46.824Z"
+    },
+    {
+        "stars": 4,
+        "feedback": "",
+        "project": "Test",
+        "date": "2018-01-06T20:55:46.824Z"
+    },
+    {
+        "stars": 5,
+        "feedback": "",
+        "project": "Test",
+        "date": "2018-01-05T20:54:46.824Z"
+    },
+    {
+        "stars": 1,
+        "feedback": "",
+        "project": "Test",
+        "date": "2018-01-11T21:54:46.824Z"
+    },
+    {
+        "stars": 2,
+        "feedback": "Viel zu wenig Plätze, Viel zu schnell alle gewollten Plätze weg.",
+        "project": "Test",
+        "date": "2018-01-11T20:54:46.824Z"
+    },
+    {
+        "stars": 5,
+        "feedback": "Gutes Design und funktioniert (bis jetzt) ohne Probleme Partnerwahl bei der Anmeldung ist super",
+        "project": "Test",
+        "date": "2018-01-08T20:54:46.824Z"
+    },
+    {
+        "stars": 1,
+        "feedback": "Es ist unklar, ob ein Partner automatisch mit angemeldet wird, oder ob sich dieser noch extra registrieren muss. (Wobei er ja dann seinen Partner nicht mehr auswählen kann.)",
+        "project": "Test",
+        "date": "2018-01-10T21:54:46.824Z"
+    }
+]
