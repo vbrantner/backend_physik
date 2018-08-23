@@ -7,7 +7,7 @@ const routes = require('./routes/api');
 // using express
 const app = express();
 
-mongoose.connect('mongodb://localhost/feedback');
+mongoose.connect('mongodb://localhost/feedback', { useNewUrlParser: true });
 mongoose.Promise = global.Promise;
 
 app.use(bodyParser.json());
@@ -16,12 +16,11 @@ app.use(bodyParser.json());
 app.use('/api', routes);
 
 // error handling
-app.use(function(err , req, res, next){
-  console.log(err);
-  res.status(422).send({error: err.message});
+app.use((err, req, res, next) => {
+  res.status(422).send({ error: err.message });
 });
 
 // listen for requests
-app.listen(3000, function() {
+app.listen(3000, () => {
   console.log('Example app listening on port 3000!');
 });
