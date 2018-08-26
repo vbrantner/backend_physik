@@ -9,8 +9,7 @@ router.get('/feedback', (req, res, next) => {
     res.setHeader('Content-Type', 'application/json');
     res.send(JSON.stringify(feedbacks, null, 3));
     // JSON.stringify(feedbacks, null, 3) for prettified json like view
-  });
-  console.log('get request');
+  }).catch(next);
 });
 
 // add a new feedback to the db
