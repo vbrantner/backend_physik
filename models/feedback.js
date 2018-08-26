@@ -13,6 +13,7 @@ const FeedbackSchema = new Schema({
   },
   feedback: {
     type: String,
+    default: '',
   },
   date: {
     type: Date,
