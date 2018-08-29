@@ -15,8 +15,8 @@ zwischen Browser und einem Server. Zur Speicherung der Feedbacks wird Mongodb ve
 - git clone dieses repository
 - npm init
 - Zum starten der API ```node index.js``` eingeben. 
-Standard Port ist 3000 sowie mongodbURL 'mongodb://localhost/feedback'
-Port und mondbURL können auch mit übergeben werden. 
+Standard Port ist 3000 sowie mongodbURL 'mongodb://localhost/feedback'.
+Port und mondbURL können auch als Kommandozeilenparameter mit übergeben werden. 
 
 Port über ```--port XXXX``` und ```--mongodbURL '...'```.
 
