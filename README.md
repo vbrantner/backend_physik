@@ -12,8 +12,6 @@ zwischen Browser und einem Server. Zur Speicherung der Feedbacks wird Mongodb ve
 - [postman](https://www.getpostman.com/) (optional zum Testen der API)
 
 ## Installation/Initialisierung
-- git clone dieses repository
-- npm init
 - Zum starten der API ```node index.js``` eingeben. 
 Standard Port ist 3000 sowie mongodbURL 'mongodb://localhost/feedback'.
 Port und mondbURL können auch als Kommandozeilenparameter mit übergeben werden. 
